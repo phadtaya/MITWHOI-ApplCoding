@@ -5,6 +5,7 @@
 Disclaimer: This repository contains the scripts and notes used in the MIT-WHOI Joint Program summer math review course taught on July 22, 2024 at WHOI. The course is designed only for guiding MIT-WHOI JP student in using HPC computing resources at WHOI. Please contact Phadtaya Poemnamthip if you have questions.
 
 Created by: Phadtaya (Pad) Poemnamthip, PhD candidate in Physical Oceanography, MIT-WHOI Joint Program
+
 Last updated: 2024-07-21
 
 ## Class overview
