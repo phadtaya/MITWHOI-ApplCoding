@@ -22,7 +22,7 @@ To connect to Poseidon, we need to be on WHOI network. To get start, open your c
 Then, type in your password.
 
 Pro tips:
-- Options can be added after ssh to make it has extra function. For example, I add -Y (or -X) to allow ssh to open my display if I want to see some result via `ncview`. (See on-screen demonstration.)
+- Options can be added after ssh to make it has extra function. For example, I add -Y (or -X) to allow ssh to open my display if I want to see some result via `ncview`. (See on-screen demonstration.) !! For Mac, X11 is needed for this option. If you don't have it, please use only ssh without this option during this class.
 
 `ssh -Y <username>@poseidon.whoi.edu`
 
