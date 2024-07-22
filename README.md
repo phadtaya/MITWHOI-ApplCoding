@@ -1,4 +1,4 @@
-# JPintro2024
+# Repository: MITWHOI-ApplCoding
 
 # JP Math Review 2024 - Applied Programming
 
