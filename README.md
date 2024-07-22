@@ -16,7 +16,7 @@ Updated: 2024-07-21
 
 ## References and recommended learning resources
 
-1. MIT CSAIL's "The missing semester of your CS education" (https://missing.csail.mit.edu/)
+1. MIT CSAIL's "The missing semester of your CS education" (https://missing.csail.mit.edu/) ***Highly recommended
 
 2. The carpentries workshop @WHOI on Python and Git website (https://whoigit.github.io/2024-06-27-PythonCarpentries/)
 
