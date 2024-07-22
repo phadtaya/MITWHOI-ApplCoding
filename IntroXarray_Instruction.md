@@ -18,4 +18,8 @@
 
 5. Activate our newly created environment
 
-6. Open Jupyter notebook (or Jupyter lab)
+   `conda activate intro_xarray`
+
+7. Open Jupyter notebook (or Jupyter lab)
+
+   `jupyter-notebook`
