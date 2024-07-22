@@ -142,11 +142,11 @@ Learn about Go... > Connect to server (Mac) and Windows
 
 ### 12. Extra (Did not go over in the class on 7/22/24
 
-Use `ncview` to view `.netcdf` file quickly.
+Use `ncview` to view netcdf files file quickly.
 
 * Load ncview by entering the command `module load ncview`
 
-* Open any `.nc` file by entering the command `ncview <filename.nc>`
+* Open any `.nc` file by entering the command `ncview <filename>.nc`
 
 
 
