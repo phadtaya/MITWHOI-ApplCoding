@@ -116,7 +116,13 @@ To do:
 * Submit the job.
 * Check for the results.
 
-### 11. Learn about Go... > Connect to server (mac)
+### 11. Connect to a network drive. 
+
+Learn about Go... > Connect to server (Mac) and Windows
+
+* Mac: Demonstration
+* Windows: See https://answers.uillinois.edu/illinois.engineering/page.php?id=81180
+
 
 
 
