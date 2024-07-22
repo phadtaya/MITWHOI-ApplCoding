@@ -70,13 +70,23 @@ My favorite one: `ls -ltrh`
     `tar -xzvf poseidon_codes.tar.gz`
 
 
-This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression, use `tar -czvf <filename>.tar.gz <dirname>`)
+This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression), use `tar -czvf <filename>.tar.gz <dirname>`. If seeing `.tar` files (without `.gz`), do the same without `-z` option in the command.
 
 Now, we have the demo codes ready!
 
-*Check point: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation*
+*Commands we have learned: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation*
 
 ## Part 2: Job submission
+
+### 5. Read and prepare our MATLAB codes with Vim text editor. (https://www.vim.org/)
+
+5.1 Open the file.
+
+`vi hello_world.m`
+
+Tips: Type `vi h` + press `tab` to get the full filename.
+
+5.2 Edit the file.
 
 
 
