@@ -23,3 +23,6 @@
 7. Open Jupyter notebook (or Jupyter lab)
 
    `jupyter-notebook`
+
+## References:
+* https://gallery.pangeo.io/repos/pangeo-gallery/cmip6/basic_search_and_load.html
