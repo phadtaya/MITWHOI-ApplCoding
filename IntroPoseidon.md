@@ -11,6 +11,8 @@
 
 *Disclaimer: This tutorial is aimed to be a guideline to help you start working on Poseidon. It might not have elaborated descriptions or definitions, but I will try to give as much resource to read after the class on your own as I can!*
 
+## Part 1: Preparation
+
 ### 1. Logging in to Poseidon
 
 To connect to Poseidon, we need to be on WHOI network. To get start, open your command-line application, e.g., Terminal (MacOS), Windows terminal (Windows), etc. Type in `ssh` command as below (SSH = Secure Shell, Secure Socket Shell).
@@ -36,8 +38,6 @@ Pro tips:
 
 2.3 Today we will be loading MATLAB. Enter `module load matlab`. (Check with `module list` to see if it's there.)
 
-Pro tips: `ncview` demonstration
-
 ### 3. Basic operations via command lines
 
 3.1 `pwd` : Print working directory. Print out full path showing where we are. When first signed in, it should be `/vortexfs1/home/<username>`
@@ -57,3 +57,19 @@ Pro tips: `ncview` demonstration
 4.1 Make sure that we are in the right directory. Then clone this whole github repository to your Poseidon's `mathreview2024` directory.
 
   `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
+
+4.2 Change directory to the newly cloned `MITWHOI-ApplCoding`. List the contents of the directory. Look for the .tar.gz file (tarball)
+
+    `ls` or `ls -l, ll`
+
+    My favorite one: `ls -ltrh`
+
+4.3 Extract the tarball. Change directory to `poseidon_codes` directory.
+
+    `tar -xzvf poseidon_codes.tar.gz`
+
+    This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression, use `tar -czvf <filename>.tar.gz <dirname>`)
+
+Now, we have the demo codes ready!
+
+*Check point: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation*
