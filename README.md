@@ -36,5 +36,5 @@ Last updated: 2024-07-21
 
 1. Math review Python class by Fadime Stemmer & Zoe Aarons (https://github.com/Fuchan2004/Python_Math_Review)
 
-2. CMIP workshop - tutorial part by Theo Carr (https://github.com/ktcarr/whoi-climate-data-tutorial) * *Highly recommended checking this out for data analysis *
+2. CMIP workshop - tutorial part by Theo Carr (https://github.com/ktcarr/whoi-climate-data-tutorial) ***Highly recommended checking this out for data analysis
 
