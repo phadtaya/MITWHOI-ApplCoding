@@ -78,7 +78,7 @@ Now, we have the demo codes ready!
 
 ## Part 2: Job submission
 
-### 5. Read and prepare our MATLAB codes with Vim text editor. (https://www.vim.org/)
+### 5. Read and prepare our MATLAB codes with Vim text editor.
 
 5.1 Open the file.
 
@@ -86,7 +86,37 @@ Now, we have the demo codes ready!
 
 Tips: Type `vi h` + press `tab` to get the full filename.
 
-5.2 Edit the file.
+5.2 Edit the file to display the texts you want.
+
+### 6. Explaning `job.slurm`, a Slurm job submission script.
+
+Slurm is the job scheduler used on Poseidon. To run any job (except code compiling) on Poseidon, we have to submit it via Slurm and wait in the queuing system.
+
+6.1 Line-by-line explanation & editing the file.
+
+`vi job.slurm`
+
+### 7. Job submission
+
+`sbatch job.slurm`
+
+
+### 8. Check status
+
+`squeue -u <username>`
+
+### 9. Check output
+
+### 10. Your turn now!
+
+To do:
+
+* Open the `Testplot_20240722.m`. Read it through, change the function and output filename to your desired filename. Save and exit the file.
+* Open `job.slurm` and edit the command to run this matlab script. Save and exit.
+* Submit the job.
+* Check for the results.
+
+### 11. Learn about Go... > Connect to server (mac)
 
 
 
