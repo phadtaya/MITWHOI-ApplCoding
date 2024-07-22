@@ -123,6 +123,9 @@ Learn about Go... > Connect to server (Mac) and Windows
 * Mac: Demonstration
 * Windows: See https://answers.uillinois.edu/illinois.engineering/page.php?id=81180
 
+### 12. Extra
+
+Use `ncview` to view `.netcdf` file quickly.
 
 
 
