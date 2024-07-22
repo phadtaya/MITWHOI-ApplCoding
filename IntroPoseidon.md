@@ -56,11 +56,12 @@ Pro tips:
 
 4.1 Make sure that we are in the right directory. Then clone this whole github repository to your Poseidon's `mathreview2024` directory.
 
-  `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
+    `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
+    
 
-4.2 Change directory to the newly cloned `MITWHOI-ApplCoding`. List the contents of the directory. Look for the .tar.gz file (tarball)
+4.2 Change directory to the newly cloned `MITWHOI-ApplCoding`. List the contents of the directory. Look for the .tar.gz file (tarball).
 
-    `ls` or `ls -l, ll`
+`ls` or `ls -l, ll`
 
 My favorite one: `ls -ltrh`
 
@@ -68,8 +69,28 @@ My favorite one: `ls -ltrh`
 
     `tar -xzvf poseidon_codes.tar.gz`
 
+
 This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression, use `tar -czvf <filename>.tar.gz <dirname>`)
 
 Now, we have the demo codes ready!
 
 *Check point: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation*
+
+## Part 2: Job submission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
