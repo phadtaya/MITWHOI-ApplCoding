@@ -74,7 +74,9 @@ This command will extract the tar ball. Tips: When want to create a tarball (wit
 
 Now, we have the demo codes ready!
 
-*Commands we have learned: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation*
+*Check point*
+
+* Commands we have learned: `ssh` login, `pwd`, `cd`, `mkdir`, `ls`, `module` commands, `git clone`, `.tar` and `.tar.gz` extraction and creation.
 
 ## Part 2: Job submission
 
