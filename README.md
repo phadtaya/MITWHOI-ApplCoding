@@ -14,7 +14,7 @@ Last updated: 2024-07-21
 
 2. Data wrangling with Python's Xarray
 
-## Recommended resources
+## References and recommended learning resources
 
 1. MIT CSAIL's "The missing semester of your CS education" (https://missing.csail.mit.edu/)
 
@@ -24,9 +24,10 @@ Last updated: 2024-07-21
 
 4. Pangeo - Big Data Geoscience community platform (https://pangeo.io/)
 
-   4.1 Pangeo gallery - Physical Oceanography examples (https://gallery.pangeo.io/repos/pangeo-gallery/physical-oceanography/index.html) 
+   4.1. Pangeo gallery - Physical Oceanography examples (https://gallery.pangeo.io/repos/pangeo-gallery/physical-oceanography/index.html) 
 
-## References
+5. Princeton's research computing tutorial on Slurm, submitting Matlab job via Slurm
 
-1. 
+   5.1. https://researchcomputing.princeton.edu/support/knowledge-base/slurm
+   5.2. https://researchcomputing.princeton.edu/support/knowledge-base/matlab
 
