@@ -22,7 +22,7 @@ Then, type in your password.
 Pro tips:
 - Options can be added after ssh to make it has extra function. For example, I add -Y (or -X) to allow ssh to open my display if I want to see some result via `ncview`. (See on-screen demonstration.)
 
-  `ssh -Y <username>@poseidon.whoi.edu`
+`ssh -Y <username>@poseidon.whoi.edu`
 
 - Poseidon has 2 login nodes: l1 and l2. We can select which node we would like to login. (Normally it's not needed, but in some case it might.)
 
@@ -42,18 +42,18 @@ Pro tips: `ncview` demonstration
 
 3.1 `pwd` : Print working directory. Print out full path showing where we are. When first signed in, it should be `/vortexfs1/home/<username>`
 
-> `pwd`
+  `pwd`
 
 3.2 `mkdir` : Make directory. We will create a directory in our home directory for using in this class.
 
-> `mkdir mathreview2024`
+  `mkdir mathreview2024`
 
 3.3 `cd` : Change directory. We will change our working directory to the one we have just created.
 
-> `cd mathreview2024`
+`cd mathreview2024`
 
 ### 4. Clone class materials and .tar.gz extraction.
 
 4.1 Make sure that we are in the right directory. Then clone this whole github repository to your Poseidon's `mathreview2024` directory.
 
-> `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
+  `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
