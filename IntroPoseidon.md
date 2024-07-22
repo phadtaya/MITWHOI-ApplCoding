@@ -62,13 +62,13 @@ Pro tips:
 
     `ls` or `ls -l, ll`
 
-    My favorite one: `ls -ltrh`
+My favorite one: `ls -ltrh`
 
 4.3 Extract the tarball. Change directory to `poseidon_codes` directory.
 
     `tar -xzvf poseidon_codes.tar.gz`
 
-    This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression, use `tar -czvf <filename>.tar.gz <dirname>`)
+This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression, use `tar -czvf <filename>.tar.gz <dirname>`)
 
 Now, we have the demo codes ready!
 
