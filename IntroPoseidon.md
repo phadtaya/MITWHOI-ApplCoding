@@ -140,9 +140,13 @@ Learn about Go... > Connect to server (Mac) and Windows
 
 * * Enter your WHOI credentials
 
-### 12. Extra
+### 12. Extra (Did not go over in the class on 7/22/24
 
 Use `ncview` to view `.netcdf` file quickly.
+
+* Load ncview by entering the command `module load ncview`
+
+* Open any `.nc` file by entering the command `ncview <filename.nc>`
 
 
 
