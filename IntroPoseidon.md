@@ -28,7 +28,7 @@ Pro tips:
 
 - Poseidon has 2 login nodes: l1 and l2. We can select which node we would like to login. (Normally it's not needed, but in some case it might.)
 
-    `ssh -Y <username>@poseidon-l1.whoi.edu`   `ssh -Y <username>@poseidon-l2.whoi.edu`
+    `ssh <username>@poseidon-l1.whoi.edu`   `ssh <username>@poseidon-l2.whoi.edu`
 
 ### 2. Check and load modules
 
@@ -63,7 +63,7 @@ Pro tips:
 
 `ls` or `ls -l, ll`
 
-My favorite one: `ls -ltrh`
+My favorite ones: `ll` and `ls -ltrh`
 
 4.3 Extract the tarball. Change directory to `poseidon_codes` directory.
 
