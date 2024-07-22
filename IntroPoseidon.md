@@ -128,12 +128,17 @@ Learn about Go... > Connect to server (Mac) and Windows
 
 * Click your `Finder`, then select `Go` -> `Connect to Server...`
 
-* When asked for the server location, type in vast.whoi.edu
+* When asked for the server location, type in `smb://vast.whoi.edu/` -> `Connect`
+
+* Enter your WHOI credentials
 
 #### 11.2 Windows
 
 * See https://answers.uillinois.edu/illinois.engineering/page.php?id=81180 for instruction.
-* When asked for the server location, type in vast.whoi.edu
+
+* When asked for the server location, type in `\\vast.whoi.edu` -> `Browse...` (Unconfirmed as I do not have access to a Windows computer now.)
+
+* * Enter your WHOI credentials
 
 ### 12. Extra
 
