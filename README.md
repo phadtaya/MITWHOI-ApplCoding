@@ -6,7 +6,7 @@ Disclaimer: This repository contains the scripts and notes used in the MIT-WHOI 
 
 Created by: Phadtaya (Pad) Poemnamthip, PhD candidate in Physical Oceanography, MIT-WHOI Joint Program
 
-Last updated: 2024-07-21
+Updated: 2024-07-21
 
 ## Class overview
 
