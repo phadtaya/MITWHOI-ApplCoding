@@ -1,5 +1,7 @@
 # Introduction to Poseidon - Hands-on experience
 
+Updated: 2024-07-22 (After class)
+
 ## Today's goals
 
 * Learning HPC basics
@@ -122,8 +124,16 @@ To do:
 
 Learn about Go... > Connect to server (Mac) and Windows
 
-* Mac: Demonstration
-* Windows: See https://answers.uillinois.edu/illinois.engineering/page.php?id=81180
+#### 11.1 Mac
+
+* Click your `Finder`, then select `Go` -> `Connect to Server...`
+
+* When asked for the server location, type in vast.whoi.edu
+
+#### 11.2 Windows
+
+* See https://answers.uillinois.edu/illinois.engineering/page.php?id=81180 for instruction.
+* When asked for the server location, type in vast.whoi.edu
 
 ### 12. Extra
 
