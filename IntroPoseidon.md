@@ -38,4 +38,12 @@ Pro tips:
 
 Pro tips: `ncview` demonstration
 
-### 3. Create directory for this class and clone class materials.
+### 3. Basic operations via command lines
+
+3.1 `pwd`
+
+3.2 `mkdir`
+
+3.3 `cd`
+
+### 4. Create directory for this class and clone class materials.
