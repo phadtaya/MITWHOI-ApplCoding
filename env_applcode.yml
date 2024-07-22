@@ -1,0 +1,21 @@
+name: intro_xarray
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - jupyter
+  - matplotlib
+  - pandas
+  - netcdf4
+  - dask
+  - xarray
+  - fsspec
+  - cartopy
+  - cftime
+  - gcsfs
+  - zarr
+  - nc-time-axis
+  - ipython
