@@ -58,7 +58,7 @@ Pro tips:
 
 4.1 Make sure that we are in the right directory. Then clone this whole github repository to your Poseidon's `mathreview2024` directory.
 
-    `git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git`
+    git clone https://github.com/phadtaya/MITWHOI-ApplCoding.git
     
 
 4.2 Change directory to the newly cloned `MITWHOI-ApplCoding`. List the contents of the directory. Look for the .tar.gz file (tarball).
