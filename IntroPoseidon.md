@@ -69,7 +69,7 @@ My favorite ones: `ll` and `ls -ltrh`
 
 4.3 Extract the tarball. Change directory to `poseidon_codes` directory.
 
-    `tar -xzvf poseidon_codes.tar.gz`
+    tar -xzvf poseidon_codes.tar.gz
 
 
 This command will extract the tar ball. Tips: When want to create a tarball (with GZip compression), use `tar -czvf <filename>.tar.gz <dirname>`. If seeing `.tar` files (without `.gz`), do the same without `-z` option in the command.
